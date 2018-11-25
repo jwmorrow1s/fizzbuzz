@@ -9,7 +9,9 @@ There shouldn't be any installation necessary to run this. You should have both 
 
 ## Usage
 
-``make run n=${your number```
+```
+make run n=${your number
+```
 
 where ${your number} is the number you provide as an argument
 ${your number} must be an positive integer, or the value will be made 0.
